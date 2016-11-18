@@ -1,0 +1,29 @@
+.cancha
+{
+	background: #82E0AA;
+	width: 150px;
+	margin: 2px;
+}
+.arco1
+{
+	border-top-color: white
+}
+.arco2
+{
+	width:200px;
+
+}
+.centro
+{left: 800px;
+
+}
+
+.pelota1
+{
+
+}
+
+.ul
+{
+	display: inline-block;
+}
